@@ -27,6 +27,7 @@ Print the output.
 Program to read from CSV
 Developed by: N.Kishore
 Registration Number: 212222240049
+
 import pandas as pd
 df=pd.read_csv("/content/nba (1).csv")
 print(df.head(10))
@@ -39,6 +40,6 @@ print("no. of columns",len(df.axes[1]))
 
 ## OUTPUT:
 
-![Uploading Screenshot 2023-06-13 122554.png…]()
+![Screenshot 2023-06-13 122554](https://github.com/nkishore2210/Read-from-CSV/assets/118707090/87c6256e-bae3-4922-8aca-3b7e95dc0a44)
 
 ## RESULT:
