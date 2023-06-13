@@ -2,6 +2,8 @@
 
 ## AIM:
 
+To read from nba.csv file and the print the result.
+
 ## ALGORITHM:
 
 Step 1:
